@@ -11,13 +11,15 @@ Matlab
 
 ## Screen-shoots
 
-
+![Screenshoot 1](/doc/img1.png?raw=true "Sample image 1")
+![Screenshoot 2](/doc/img2.png?raw=true "Sample image 2")
+![Screenshoot 3](/doc/img3.png?raw=true "Sample image 3")
 
 ## Instructions
 
 1 - If necessary, compile the navierStokesStep.c file using 
 
->> mex navierStokesStep.c
+\>\> mex navierStokesStep.c
 
 2 - Adjust the parameters (source position, intensity, etc...) in the SOURCE and FIELD configuration section 
 
