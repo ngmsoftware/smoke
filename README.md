@@ -3,6 +3,9 @@
 Matlab smoke simulator based on numerical solution of Navier-Stokes equations. This is just for entertainment purposes. The numerical solution is not precise and involves "empirical" steps like smoothing of the fields, etc.
 Also, its sensible to instabilization if the parameters are not well behaved
 
+See demo at: 
+https://www.youtube.com/watch?v=qP3gsgT8Kno
+
 ## Software
 
 Matlab
